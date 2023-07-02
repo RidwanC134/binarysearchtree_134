@@ -120,7 +120,7 @@ public:
 
 int main()
 {
-	BinaryTree obj;
+	BinaryTree obj; 
 	while (true)
 	{
 		cout << "\nMenu" << endl;
