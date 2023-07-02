@@ -23,7 +23,7 @@ class BinaryTree
 public:
 	Node* ROOT;
 
-	BinaryTree()
+	BinaryTree() 
 	{
 		ROOT = NULL; // Initilizing ROOT to null
 	}
